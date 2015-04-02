@@ -1,0 +1,1 @@
+Weather forecasting has been interesting to people for many centuries – it can be useful to be able to plan ahead. We will try to predict the precipitation using a combination of fuzzy logic and artificial neural networks.
